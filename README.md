@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C++, C, python but im not regularly active.
 
-- 👾 My Discord server: https://discord.gg/FgZYVKwTN4 
+- 👾 Discord: B3njamïn#8743
 
 - 🔴 My Youtube channel: https://youtube.com/benjaminfretez
 
