@@ -2,9 +2,9 @@
 
 ---
 
-- 🔭 I like software, I like also hardware but I'm most interested in software.
+- 🔭 I like software, I like also hardware but I'm most interested in software (Windows, Linux, etc).
 
-- 🌱 I’m currently learning C++, C, python but i'm sometimes active.
+- 🌱 I’m currently learning C++, C, Python, Bash.
 
 - 👾 [Discord](https://discord.gg/FgZYVKwTN4): B3njamïn#8743
 
