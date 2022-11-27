@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hello There👋
 
 ---
 
-- 🔭 I like software, I like also hardware but I'm most interested in software (Windows, Linux, etc).
+- 🔭 Interested in Open Source software and also have fun while coding.
 
-- 🌱 I’m currently learning C++, C, Python, Bash.
+- 🌱 I’m currently learning C++, C, Python, Bash.  ᕦ(ò_óˇ)ᕤ
 
-- 👾 [Discord](https://discord.gg/FgZYVKwTN4): B3njamïn#8743
-
-- 🔴 My [YouTube](https://youtube.com/benjaminfretez) channel. 
+- *Social Media:*
+- 💬 [Twitter](https://twitter.com/@benjaminfretez)
+- 💬 [Discord](https://discord.gg/FgZYVKwTN4) 
+- 📹 [YouTube](https://youtube.com/@benjaminfretez)
 
 😲
