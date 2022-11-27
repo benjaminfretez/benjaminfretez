@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning C++, C, Python, Bash.  ᕦ(ò_óˇ)ᕤ
 
 - *Social Media:*
-- 💬 [Twitter](https://twitter.com/@benjaminfretez)
-- 💬 [Discord](https://discord.gg/FgZYVKwTN4) 
-- 📹 [YouTube](https://youtube.com/@benjaminfretez)
+  - 💬 [Twitter](https://twitter.com/@benjaminfretez)
+  - 💬 [Discord](https://discord.gg/FgZYVKwTN4) 
+  - 📹 [YouTube](https://youtube.com/@benjaminfretez)
 
 😲
